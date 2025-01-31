@@ -5,7 +5,7 @@ Este projeto é uma aplicação simples para gerenciar uma lista de compras, per
 ---
 
 ### 🚀 Acesse o projeto:
-🔗 [Lista de Compras - Clique aqui para acessar](#)
+🔗 [Lista de Compras - Clique aqui para acessar](https://quicklist-eight.vercel.app/)
 
 ---
 
